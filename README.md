@@ -2,15 +2,12 @@
 
 A  currency converter application.
 
-## Getting Started
+# Currency Converter UI
 
-This project is a starting point for a Flutter application.
+This project is essentially a user interface (UI) for converting USD to INR. It serves as a great beginner-level project for those starting out with UI design.
 
-A few resources to get you started if this is your first Flutter project:
+### Future Updates:
+- We plan to evolve this into a fully functional app that will support conversion between multiple currencies.
+- You can customize the UI as you wish and add additional features like cryptocurrency conversion, new layouts, or other currencies.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to play around with the design and add your own flair!
